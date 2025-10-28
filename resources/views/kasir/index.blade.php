@@ -24,7 +24,6 @@
                             <thead>
                                 <tr>
                                     <th>No</th>
-                                    <th>Nama Pembeli</th>
                                     <th>Total Transaksi</th>
                                     <th>Aksi</th>
                                 </tr>
